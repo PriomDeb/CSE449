@@ -8,7 +8,7 @@ Paper title:
 Distributed denial of service attack defense system-based auto machine learning algorithm 
 
 Link to the paper:
-https://beei.org/index.php/EEI/article/view/4537s
+https://beei.org/index.php/EEI/article/view/4537
 
 Group Number:
 26
